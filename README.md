@@ -8,4 +8,4 @@ Retreiving Channel [metadata](https://developers.google.com/youtube/v3/docs/chan
 - Content Details and [Rating](https://developers.google.com/youtube/v3/docs/videos)
 
 
--Using API [Samples](https://github.com/youtube/api-samples)
+Using API [Samples](https://github.com/youtube/api-samples)
